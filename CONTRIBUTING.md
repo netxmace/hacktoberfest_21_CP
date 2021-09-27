@@ -15,4 +15,4 @@ Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easil
 8. Use _**git push origin branch_name**_ to push the code to your forked repo
 9. Send a pull request and you are done with your first contribution
 
-_if you have any doubts do check our [site]() for assistance 
+> *if you have any doubts do check our [site]() for assistance*
