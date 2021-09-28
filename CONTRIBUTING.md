@@ -7,10 +7,10 @@ Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easil
 
 1. Register for Hacktoberfest on [Digital oceans site](https://hacktoberfest.digitalocean.com/)
 2. Fork or and clone this repository
-3. On cloning the file will have a `answer folder`
+3. On cloning the file will have a `answer folder` in the answer_branch 
 4. Add your answer to the  `answer folder`
 5. Answer `should` be saved in the format `answer_question no.extension_your github id.extension` (answer_01_ABC.cpp/c/python)
-6. Push only to the branch assigned to the respective question. For pushing your code to your forked repo use _git local workflow_
+6. Push only to the answer_branch. For pushing your code to your forked repo use _git local workflow_
 7. Use `git push origin branch_name` to push the code to your forked repo
 8. Send a pull request and you are done with your first contribution
 
