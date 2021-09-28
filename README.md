@@ -1,4 +1,4 @@
-## 🎃 HacktoberFest Competitive Programing Track🎃 ##
+## 🎃 HacktoberFest Competitive Programming Track🎃 ##
 
 
 
