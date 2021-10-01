@@ -1,5 +1,0 @@
-a = int(input("enter the number"))
-a = str(a)
-num1 = int(a[0])
-num2 = int(a[-1])
-print(num1 + num2)
